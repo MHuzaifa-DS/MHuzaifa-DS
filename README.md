@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Amir</h1>
 <h3 align="center">A passionate AI/ML developer from Pakistan</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=AI+Developer+%7C+ML+Engineer;Full+Stack+Learner+%7C+React+%7C+Next.js;LangChain+%7C+Flask+%7C+Streamlit;Always+learning+new+tech!" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **AI-powered rental platform - Renterest**
 
 - 🌱 I’m currently learning **LangChain, MLOps, and Full Stack Development**
@@ -13,7 +17,7 @@
 
 - 📫 How to reach me: **huzaifaamir402@gmail.com**
 
-- 📄 Know about my experiences: [My Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1GKPJ6ZdWWp3XBTRpQNaF1UuBrE61s1w7/view?usp=sharing))
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1GKPJ6ZdWWp3XBTRpQNaF1UuBrE61s1w7/view?usp=sharing)
 
 - ⚡ Fun fact: *I'm building AI tools for real-world problems.*
 
@@ -36,5 +40,5 @@
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifaamir402@gmail.com)
