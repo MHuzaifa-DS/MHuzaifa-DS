@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=AI+Developer+%7C+ML+Engineer;Full+Stack+Learner+%7C+React+%7C+Next.js;LangChain+%7C+Flask+%7C+Streamlit;Always+learning+new+tech!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,html,css,js,java,cpp,github,mysql,php,docker,firebase,bootstrap,linux,sqlite,vscode,git" alt="Skill Icons" />
-</p>
-
 - 🔭 I’m currently working on **AI-powered rental platform - Renterest**
 
 - 🌱 I’m currently learning **LangChain, MLOps, and Full Stack Development**
@@ -24,6 +20,14 @@
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1GKPJ6ZdWWp3XBTRpQNaF1UuBrE61s1w7/view?usp=sharing)
 
 - ⚡ Fun fact: *I'm building AI tools for real-world problems.*
+
+---
+
+## 🧠 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,nextjs,streamlit" alt="My Skills" />
+</p>
 
 ---
 
